@@ -2,6 +2,8 @@
 
 Repository for the `GitHub Fundamentals` training from 14th December 2023 to 15th December 2023
 
+It was a pleasure
+
 ## 👉 Objectives
 
 - Learning to __navigate GitHub__ and know the most important features (including shortcuts and search)
