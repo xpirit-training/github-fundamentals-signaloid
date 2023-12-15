@@ -1,6 +1,6 @@
 # GitHub Fundamentals
 
-Repository for the `GitHub Fundamentals` training.
+Repository for the `GitHub Fundamentals` training from 14th December 2023 to 15th December 2023
 
 ## 👉 Objectives
 
