@@ -4,6 +4,7 @@ Repository for the `GitHub Fundamentals` training from 14th December 2023 to 15t
 
 Thank you guys for beinjg with me
 It was a pleasure
+Hope to see you again
 
 ## 👉 Objectives
 
